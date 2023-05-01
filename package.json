@@ -1,6 +1,6 @@
 {
   "name": "playwright-chrome-recorder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate Playwright Tests from Chrome DevTools Recordings",
   "bin": "bin/playwright-chrome-recorder.js",
   "main": "dist/main.js",
